@@ -1,2 +1,2 @@
 ### Hi, Welcome to RODINcode
-![](https://tenor.com/view/o2-o2robot-o2ad-bubl-o2bubl-gif-18485860)
+![](https://media.tenor.com/images/f002ee7d2572f087841b547860cc7339/tenor.gif)

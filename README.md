@@ -5,7 +5,7 @@
 * > We are a team of young AI enthusiasts trying to make coding fun and easy to learn. 
 * > Join us and make real world applications while learning.
 * > We are only teachers and students driven company delievering awesome projects to the community.
-* > We value money and quality education.
+* > We value your ideas and quality education.
 <hr>
 <img src="https://media.tenor.com/images/f002ee7d2572f087841b547860cc7339/tenor.gif" width=100px height=100px
      alt="Markdown Monster icon"

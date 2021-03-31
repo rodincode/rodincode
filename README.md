@@ -15,3 +15,11 @@
 <hr>
 
 ![RODINcode's GitHub stats](https://github-readme-stats.vercel.app/api?username=rodincode&show_icons=true&theme=tokyonight)
+
+> [![Github](https://img.shields.io/badge/-Github-330c83?style=flat&logo=Github&logoColor=white)](https://github.com/rodincode)
+> [![Linkedin](https://img.shields.io/badge/-LinkedIn-330c83?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rodincode)
+> [![Twitter](https://img.shields.io/badge/-Twitter-330c83?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/rodincode)
+> [![Instagram](https://img.shields.io/badge/-Instagram-330c83?style=flat&labelColor=330c83&logo=instagram&logoColor=white)](https://www.instagram.com/rodin_code/)
+> [![Gmail](https://img.shields.io/badge/-Gmail-330c83?style=flat&logo=Gmail&logoColor=white)](mailto:rodincode@gmail.com)
+> [![Medium](https://img.shields.io/badge/-Medium-330c83?style=flat&logo=Medium&logoColor=white)](https://medium.com/rodincode)
+

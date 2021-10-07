@@ -23,3 +23,5 @@
 > [![Gmail](https://img.shields.io/badge/-Gmail-330c83?style=flat&logo=Gmail&logoColor=white)](mailto:rodincode@gmail.com)
 > [![Medium](https://img.shields.io/badge/-Medium-330c83?style=flat&logo=Medium&logoColor=white)](https://medium.com/rodincode)
 
+**Visitors Count**  
+![VisitorCount](https://profile-counter.glitch.me/{rodincode}/count.svg)

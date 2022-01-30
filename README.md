@@ -15,7 +15,7 @@
 <hr>
 
 ![RODINcode's GitHub stats](https://github-readme-stats.vercel.app/api?username=rodincode&show_icons=true&theme=tokyonight)
-![Stats] (https://camo.githubusercontent.com/597b77f72ca1e164a87676de983e6679e3db0556b764185302fed4925c250c39/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d686b617572303038267468656d653d6a6f6c6c79)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rodincode&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 > [![Github](https://img.shields.io/badge/-Github-330c83?style=flat&logo=Github&logoColor=white)](https://github.com/rodincode)
 > [![Linkedin](https://img.shields.io/badge/-LinkedIn-330c83?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rodincode)

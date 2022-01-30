@@ -14,7 +14,7 @@
 
 <hr>
 
-![RODINcode's GitHub stats](https://github-readme-stats.vercel.app/api?username=rodincode&show_icons=true&theme=github-dark)
+![RODINcode's GitHub stats](https://github-readme-stats.vercel.app/api?username=rodincode&show_icons=true&theme=dark)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rodincode&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 > [![Github](https://img.shields.io/badge/-Github-330c83?style=flat&logo=Github&logoColor=white)](https://github.com/rodincode)

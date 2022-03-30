@@ -14,9 +14,12 @@
 
 <hr>
 
-![RODINcode's GitHub stats](https://github-readme-stats.vercel.app/api?username=rodincode&show_icons=true&theme=tokyonight)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rodincode&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+<a href="https://github.com/rodincode?tab=repositories" title="View my repositories">
+  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodincode&theme=dark&layout=compact&hide_border=true&border_radius=15&hide_title=true" width="415" hspace="3">
+ </a>
 
+![RODINcode's GitHub stats](https://github-readme-stats.vercel.app/api?username=rodincode&show_icons=true&theme=tokyonight)
 > [![Github](https://img.shields.io/badge/-Github-330c83?style=flat&logo=Github&logoColor=white)](https://github.com/rodincode)
 > [![Linkedin](https://img.shields.io/badge/-LinkedIn-330c83?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rodincode)
 > [![Twitter](https://img.shields.io/badge/-Twitter-330c83?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/rodincode)
